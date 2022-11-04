@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>test-publii</title>
+    <title>Davide Tarasconi</title>
     <link href="https://davidetarasconi.github.io/publii/feed.xml" rel="self" />
     <link href="https://davidetarasconi.github.io/publii" />
-    <updated>2022-11-04T10:18:58+01:00</updated>
+    <updated>2022-11-04T12:06:18+01:00</updated>
     <author>
         <name>davide</name>
     </author>
     <id>https://davidetarasconi.github.io/publii</id>
 
     <entry>
+        <title>Secondo post pubblico</title>
+        <author>
+            <name>davide</name>
+        </author>
+        <link href="https://davidetarasconi.github.io/publii/secondo-post-pubblico/"/>
+        <id>https://davidetarasconi.github.io/publii/secondo-post-pubblico/</id>
+        <media:content url="https://davidetarasconi.github.io/publii/media/posts/2/systemantics.jpg" medium="image" />
+
+        <updated>2022-11-04T12:06:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://davidetarasconi.github.io/publii/media/posts/2/systemantics.jpg" alt="" />
+                    Ecco un secondo post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://davidetarasconi.github.io/publii/media/posts/2/systemantics.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Ecco un secondo post.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Primo post</title>
         <author>
             <name>davide</name>
         </author>
-        <link href="https://davidetarasconi.github.io/publii/primo-post.html"/>
-        <id>https://davidetarasconi.github.io/publii/primo-post.html</id>
+        <link href="https://davidetarasconi.github.io/publii/primo-post/"/>
+        <id>https://davidetarasconi.github.io/publii/primo-post/</id>
 
         <updated>2022-11-04T10:18:58+01:00</updated>
             <summary>

@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "test-publii",
+    "title": "Davide Tarasconi",
     "description": "",
     "home_page_url": "https://davidetarasconi.github.io/publii",
     "feed_url": "https://davidetarasconi.github.io/publii/feed.json",
@@ -10,8 +10,23 @@
     },
     "items": [
         {
-            "id": "https://davidetarasconi.github.io/publii/primo-post.html",
-            "url": "https://davidetarasconi.github.io/publii/primo-post.html",
+            "id": "https://davidetarasconi.github.io/publii/secondo-post-pubblico/",
+            "url": "https://davidetarasconi.github.io/publii/secondo-post-pubblico/",
+            "title": "Secondo post pubblico",
+            "summary": "Ecco un secondo post.",
+            "content_html": "\n  <p>\n    Ecco un secondo post.\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://davidetarasconi.github.io/publii/media/posts/2/systemantics.jpg",
+            "author": {
+                "name": "davide"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-04T12:06:18+01:00",
+            "date_modified": "2022-11-04T12:06:18+01:00"
+        },
+        {
+            "id": "https://davidetarasconi.github.io/publii/primo-post/",
+            "url": "https://davidetarasconi.github.io/publii/primo-post/",
             "title": "Primo post",
             "summary": "Testo del primo post.",
             "content_html": "<p>Testo del primo post.</p>\n<p> </p>",
