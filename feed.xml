@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test-publii</title>
+    <link href="https://davidetarasconi.github.io/publii/feed.xml" rel="self" />
+    <link href="https://davidetarasconi.github.io/publii" />
+    <updated>2022-11-04T10:18:58+01:00</updated>
+    <author>
+        <name>davide</name>
+    </author>
+    <id>https://davidetarasconi.github.io/publii</id>
+
+    <entry>
+        <title>Primo post</title>
+        <author>
+            <name>davide</name>
+        </author>
+        <link href="https://davidetarasconi.github.io/publii/primo-post.html"/>
+        <id>https://davidetarasconi.github.io/publii/primo-post.html</id>
+
+        <updated>2022-11-04T10:18:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Testo del primo post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Testo del primo post.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

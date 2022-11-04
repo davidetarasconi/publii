@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test-publii",
+    "description": "",
+    "home_page_url": "https://davidetarasconi.github.io/publii",
+    "feed_url": "https://davidetarasconi.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "davide"
+    },
+    "items": [
+        {
+            "id": "https://davidetarasconi.github.io/publii/primo-post.html",
+            "url": "https://davidetarasconi.github.io/publii/primo-post.html",
+            "title": "Primo post",
+            "summary": "Testo del primo post.",
+            "content_html": "<p>Testo del primo post.</p>\n<p> </p>",
+            "author": {
+                "name": "davide"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-30T08:15:56+02:00",
+            "date_modified": "2022-11-04T10:18:58+01:00"
+        }
+    ]
+}
