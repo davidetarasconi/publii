@@ -6,7 +6,7 @@
     "feed_url": "https://davidetarasconi.github.io/publii/feed.json",
     "user_comment": "",
     "author": {
-        "name": "davide"
+        "name": "Davide Tarasconi"
     },
     "items": [
         {
@@ -17,7 +17,7 @@
             "content_html": "\n  <p>\n    Ecco un secondo post.\n  </p>\n\n  <p>\n    \n  </p>",
             "image": "https://davidetarasconi.github.io/publii/media/posts/2/systemantics.jpg",
             "author": {
-                "name": "davide"
+                "name": "Davide Tarasconi"
             },
             "tags": [
             ],
@@ -31,7 +31,7 @@
             "summary": "Testo del primo post.",
             "content_html": "<p>Testo del primo post.</p>\n<p> </p>",
             "author": {
-                "name": "davide"
+                "name": "Davide Tarasconi"
             },
             "tags": [
             ],
